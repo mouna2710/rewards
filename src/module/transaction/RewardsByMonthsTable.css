@@ -1,0 +1,21 @@
+.reward-summary-container {
+  margin-bottom: 30px;
+}
+
+.title {
+  margin: 0;
+  margin-bottom: 0.5em;
+}
+
+.table {
+  text-align: center;
+  border-spacing: 0;
+}
+
+th,
+td {
+  border: 1px solid black;
+  line-height: 24px;
+  font-size: 1em;
+  padding: 0.5em;
+}
